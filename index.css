@@ -1,12 +1,22 @@
 @font-face {
     font-family: "Lumberjack";
     src: url(Lumberjack.otf);
+    font-weight: "Rough";
+    src: url(Lumberjack Rough.otf);
 }
 
 @font-face {
-    font-family: "Lumberjack Rough";
-    src: url(Lumberjack Rough.otf);
-}
+	font-family: "Akrobat";
+	src: url(Akrobat-Regular.otf);
+	font-weight: "Black";
+	src: url(Akrobat-Black.otf);
+	font-weight: "Bold";
+	src: url(Abkrobat-Bold.otf);
+	font-weight: "ExtraBold";
+	src: url(Akrobat-ExtraBold.otf);
+	font-weight: "ExtraLight";
+	src: url(Akrobat-ExtraLight.otf);
+}	
 
 body {
     background-color: rgba(106, 67, 33, .65);
@@ -15,7 +25,8 @@ body {
 #Title {
 	padding-top: 2%;
     color: rgb(202, 34, 34);
-    font-family: "Lumberjack Rough";
+    font-family: "Lumberjack";
+    font-weight: "Rough";
     font-size: 28;
 }
 
@@ -26,4 +37,10 @@ body {
     max-height: 179 px;
 	display: block;
 	margin: auto;
+}
+
+#menuItem {
+	font-family: "Akrobat";
+	font-weight: "ExtraLight";
+	font-size: 12;
 }
