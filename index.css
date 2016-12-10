@@ -30,6 +30,13 @@ body {
     font-size: 36;
 }
 
+#Subtitle {
+	color: #000000;
+    font-family: "Akrobat";
+    font-weight: "ExtraLight";
+    font-size: 24;
+}
+
 #logo {
 	padding-top: 10%;
 	height: 25%;
@@ -44,5 +51,5 @@ body {
 	color: #FFFFFF;
 	font-family: "Akrobat";
 	font-weight: "ExtraLight";
-	font-size: 24;
+	font-size: 20;
 }
