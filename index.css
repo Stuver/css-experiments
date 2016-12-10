@@ -1,21 +1,21 @@
 @font-face {
     font-family: "Lumberjack";
-    src: url(master/Lumberjack.otf);
+    src: url(https://github.com/Stuver/aaronstuver/blob/master/Lumberjack.otf);
     font-weight: "Rough";
-    src: url(master/Lumberjack Rough.otf);
+    src: url(https://github.com/Stuver/aaronstuver/blob/master/Lumberjack Rough.otf);
 }
 
 @font-face {
 	font-family: "Akrobat";
-	src: url(master/Akrobat-Regular.otf);
+	src: url(https://github.com/Stuver/aaronstuver/blob/master/Akrobat-Regular.otf);
 	font-weight: "Black";
-	src: url(master/Akrobat-Black.otf);
+	src: url(https://github.com/Stuver/aaronstuver/blob/master/Akrobat-Black.otf);
 	font-weight: "Bold";
-	src: url(master/Abkrobat-Bold.otf);
+	src: url(https://github.com/Stuver/aaronstuver/blob/master/Abkrobat-Bold.otf);
 	font-weight: "ExtraBold";
-	src: url(master/Akrobat-ExtraBold.otf);
+	src: url(https://github.com/Stuver/aaronstuver/blob/master/Akrobat-ExtraBold.otf);
 	font-weight: "ExtraLight";
-	src: url(master/Akrobat-ExtraLight.otf);
+	src: url(https://github.com/Stuver/aaronstuver/blob/master/Akrobat-ExtraLight.otf);
 }	
 
 body {
