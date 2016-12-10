@@ -40,6 +40,8 @@ body {
 }
 
 #menuItem {
+	text-decoration: none;
+	color: #FFFFFF;
 	font-family: "Akrobat";
 	font-weight: "ExtraLight";
 	font-size: 12;
