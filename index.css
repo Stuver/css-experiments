@@ -17,3 +17,9 @@ body {
   font-family: "Lumberjack Rough";
   font-size: 28;
 }
+
+#logo {
+  max-width: 179 px;
+  max-height: 179 px;
+  align-self: center;
+}
