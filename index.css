@@ -32,10 +32,11 @@ body {
 }
 
 #Subtitles {
+	margin-top: 0px;
 	color: #000000;
     font-family: "Akrobat";
     font-weight: "ExtraLight";
-    font-size: 24;
+    font-size: 16;
 	text-align: center;
 }
 
@@ -55,4 +56,3 @@ body {
 	font-weight: "ExtraLight";
 	font-size: 20;
 }
-
