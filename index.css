@@ -1,21 +1,21 @@
 @font-face {
     font-family: "Lumberjack";
-    src: url(Lumberjack.otf);
+    src: url(master/Lumberjack.otf);
     font-weight: "Rough";
-    src: url(Lumberjack Rough.otf);
+    src: url(master/Lumberjack Rough.otf);
 }
 
 @font-face {
 	font-family: "Akrobat";
-	src: url(Akrobat-Regular.otf);
+	src: url(master/Akrobat-Regular.otf);
 	font-weight: "Black";
-	src: url(Akrobat-Black.otf);
+	src: url(master/Akrobat-Black.otf);
 	font-weight: "Bold";
-	src: url(Abkrobat-Bold.otf);
+	src: url(master/Abkrobat-Bold.otf);
 	font-weight: "ExtraBold";
-	src: url(Akrobat-ExtraBold.otf);
+	src: url(master/Akrobat-ExtraBold.otf);
 	font-weight: "ExtraLight";
-	src: url(Akrobat-ExtraLight.otf);
+	src: url(master/Akrobat-ExtraLight.otf);
 }	
 
 body {
