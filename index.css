@@ -1,5 +1,8 @@
 body {
   background-color: rgba(106,67,33,65)
-  }
+}
   
-  
+#Title {
+  color: rgb(202,34,34)
+  font-family: "Lumberjack"
+}
