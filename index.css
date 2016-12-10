@@ -1,8 +1,13 @@
+@font-face {
+  font-family: "Lumberjack";
+  src: url(Lumberjack.otf);
+}
+
 body {
-  background-color: rgba(106,67,33,65)
+  background-color: rgba(106,67,33,65);
 }
   
 #Title {
-  color: rgb(202,34,34)
-  font-family: "Lumberjack"
+  color: rgb(202,34,34);
+  font-family: "Lumberjack";
 }
