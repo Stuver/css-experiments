@@ -20,7 +20,7 @@
 
 body {
     background-color: rgba(106, 67, 33, .65);
-	max-width: 75%;
+	width: 100%;
 	display: block;
 	margin: auto;
 }
