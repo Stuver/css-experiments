@@ -20,6 +20,9 @@
 
 body {
     background-color: rgba(106, 67, 33, .65);
+	max-width: 320px;
+	display: block;
+	margin: auto;
 }
 
 #Title {
@@ -56,3 +59,4 @@ body {
 	font-weight: "ExtraLight";
 	font-size: 20;
 }
+
