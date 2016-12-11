@@ -7,15 +7,15 @@
 
 @font-face {
 	font-family: "Akrobat";
-	src: url(https://github.com/Stuver/aaronstuver/blob/master/Akrobat-Regular.otf);
+	src: url(/Akrobat-Regular.otf);
 	font-weight: "Black";
-	src: url(https://github.com/Stuver/aaronstuver/blob/master/Akrobat-Black.otf);
+	src: url(/Akrobat-Black.otf);
 	font-weight: "Bold";
-	src: url(https://github.com/Stuver/aaronstuver/blob/master/Abkrobat-Bold.otf);
+	src: url(/Abkrobat-Bold.otf);
 	font-weight: "ExtraBold";
-	src: url(https://github.com/Stuver/aaronstuver/blob/master/Akrobat-ExtraBold.otf);
+	src: url(/Akrobat-ExtraBold.otf);
 	font-weight: "ExtraLight";
-	src: url(https://onedrive.live.com/embed?cid=61C20C48A3FA9102&resid=61C20C48A3FA9102%213961&authkey=AB0a_2fuQy6crMQ);
+	src: url(/Akrobat-ExtraLight);
 }	
 
 body {
