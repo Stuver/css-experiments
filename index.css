@@ -52,7 +52,14 @@ body {
 	margin: auto;
 }
 
-#menuItem {
+.menu {
+  max-width: 500px;
+  display: flex;
+  justify-content: space-around;
+  -webkit-justify-content: space-around;
+}
+
+.menuItem {
 	text-decoration: none;
 	color: #FFFFFF;
 	font-family: "Akrobat";
