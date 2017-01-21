@@ -63,6 +63,7 @@ body {
 
 .menuItem {
 	position: relative;
+	display: flex;
 	justify-content: space-around;
 	text-decoration: none;
 	color: #FFFFFF;
