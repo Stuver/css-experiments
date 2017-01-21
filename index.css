@@ -55,12 +55,15 @@ body {
 .menu {
   position: relative;
   max-width: 500px;
-  display: flex;
+  display: block;
+  margin: auto;
   justify-content: space-around;
   -webkit-justify-content: space-around;
 }
 
 .menuItem {
+	position: relative;
+	justify-content: space-around;
 	text-decoration: none;
 	color: #FFFFFF;
 	font-family: "Akrobat";
