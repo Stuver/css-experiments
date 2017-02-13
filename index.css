@@ -101,9 +101,9 @@ background-size: 56px 40px;
    background-image: url("/medium-m-dark-500px.png");
    background-size: 58px 40px;
    height: 40px;
-   width: 58px;
+   width: 46px;
 }
 #medium:hover{
   background-image: url("/medium-m-color-500px.png");
-  background-size: 58px 40px;
+  background-size: 46px 40px;
 }
