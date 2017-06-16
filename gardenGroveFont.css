@@ -1,8 +1,8 @@
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-Regular.woff2') format('woff2'),
-       url('fonts/GardenGrove-Regular.woff') format('woff'),
-       url('fonts/GardenGrove-Regular.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff2?raw=true') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff?raw=true') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.eot?raw=true') format('eot');
 }
 
 @font-face {
