@@ -1,8 +1,8 @@
 @font-face {
   font-family: swGardenGrove;
-  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff2?raw=true') format('woff2'),
-       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff?raw=true') format('woff'),
-       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.eot?raw=true') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.eot') format('eot');
   font-weight: regular;
 }
 
@@ -16,33 +16,33 @@
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-ExtraBold.woff2') format('woff2'),
-       url('fonts/GardenGrove-ExtraBold.woff') format('woff'),
-       url('fonts/GardenGrove-ExtraBold.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraBold.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraBold.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraBold.eot') format('eot');
   font-weight: extrabold;
 }
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-ExtraLight.woff2') format('woff2'),
-       url('fonts/GardenGrove-ExtraLight.woff') format('woff'),
-       url('fonts/GardenGrove-ExtraLight.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraLight.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraLight.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraLight.eot') format('eot');
   font-weight: extralight;
 }
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff2?raw=true') format('woff2'),
-       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff?raw=true') format('woff'),
-       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.eot?raw=true') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.eot') format('eot');
   font-weight: heavy;
 }
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-Light.woff2') format('woff2'),
-       url('fonts/GardenGrove-Light.woff') format('woff'),
-       url('fonts/GardenGrove-Light.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Light.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Light.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Light.eot') format('eot');
   font-weight: light;
 }
 
