@@ -9,8 +9,7 @@ html { font-size: 62.5%; }
 p {
   font-family: oswald;
   font-size: 17px; font-size: 1.7rem;
-  font-color: #9bcbeb;
-  background-color: #1f2a44;
+  color: #9bcbeb;
 }
 
 .jumbo, .headline, .title, .subtitle, h1, h2, .caption {
