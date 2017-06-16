@@ -48,32 +48,32 @@
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-Medium.woff2') format('woff2'),
-       url('fonts/GardenGrove-Medium.woff') format('woff'),
-       url('fonts/GardenGrove-Medium.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Medium.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Medium.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Medium.eot') format('eot');
   font-weight: medium;
 }
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-Semibold.woff2') format('woff2'),
-       url('fonts/GardenGrove-Semibold.woff') format('woff'),
-       url('fonts/GardenGrove-Semibold.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Semibold.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Semibold.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Semibold.eot') format('eot');
   font-weight: semibold;
 }
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-Thin.woff2') format('woff2'),
-       url('fonts/GardenGrove-Thin.woff') format('woff'),
-       url('fonts/GardenGrove-Thin.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Thin.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Thin.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Thin.eot') format('eot');
   font-weight: thin;
 }
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-UltraLight.woff2') format('woff2'),
-       url('fonts/GardenGrove-UltraLight.woff') format('woff'),
-       url('fonts/GardenGrove-UltraLight.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-UltraLight.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-UltraLight.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-UltraLight.eot') format('eot');
   font-weight: ultralight;
 }
