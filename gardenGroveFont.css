@@ -9,7 +9,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-Bold.woff2') format('woff2'),
        url('fonts/GardenGrove-Bold.woff') format('woff'),
-       url('fonts/GardenGrove-Bold.eof') format('eof');
+       url('fonts/GardenGrove-Bold.eot') format('eot');
   font-weight: bold;
 }
 
@@ -17,7 +17,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-ExtraBold.woff2') format('woff2'),
        url('fonts/GardenGrove-ExtraBold.woff') format('woff'),
-       url('fonts/GardenGrove-ExtraBold.eof') format('eof');
+       url('fonts/GardenGrove-ExtraBold.eot') format('eot');
   font-weight: extrabold;
 }
 
@@ -25,7 +25,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-ExtraLight.woff2') format('woff2'),
        url('fonts/GardenGrove-ExtraLight.woff') format('woff'),
-       url('fonts/GardenGrove-ExtraLight.eof') format('eof');
+       url('fonts/GardenGrove-ExtraLight.eot') format('eot');
   font-weight: extralight;
 }
 
@@ -33,7 +33,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-Heavy.woff2') format('woff2'),
        url('fonts/GardenGrove-Heavy.woff') format('woff'),
-       url('fonts/GardenGrove-Heavy.eof') format('eof');
+       url('fonts/GardenGrove-Heavy.eot') format('eot');
   font-weight: heavy;
 }
 
@@ -41,7 +41,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-Light.woff2') format('woff2'),
        url('fonts/GardenGrove-Light.woff') format('woff'),
-       url('fonts/GardenGrove-Light.eof') format('eof');
+       url('fonts/GardenGrove-Light.eot') format('eot');
   font-weight: light;
 }
 
@@ -49,7 +49,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-Medium.woff2') format('woff2'),
        url('fonts/GardenGrove-Medium.woff') format('woff'),
-       url('fonts/GardenGrove-Medium.eof') format('eof');
+       url('fonts/GardenGrove-Medium.eot') format('eot');
   font-weight: medium;
 }
 
@@ -57,7 +57,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-Semibold.woff2') format('woff2'),
        url('fonts/GardenGrove-Semibold.woff') format('woff'),
-       url('fonts/GardenGrove-Semibold.eof') format('eof');
+       url('fonts/GardenGrove-Semibold.eot') format('eot');
   font-weight: semibold;
 }
 
@@ -65,7 +65,7 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-Thin.woff2') format('woff2'),
        url('fonts/GardenGrove-Thin.woff') format('woff'),
-       url('fonts/GardenGrove-Thin.eof') format('eof');
+       url('fonts/GardenGrove-Thin.eot') format('eot');
   font-weight: thin;
 }
 
@@ -73,6 +73,6 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-UltraLight.woff2') format('woff2'),
        url('fonts/GardenGrove-UltraLight.woff') format('woff'),
-       url('fonts/GardenGrove-UltraLight.eof') format('eof');
+       url('fonts/GardenGrove-UltraLight.eot') format('eot');
   font-weight: ultralight;
 }
