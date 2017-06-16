@@ -1,0 +1,97 @@
+@import url("gardenGroveFont.css");
+
+
+// FONTS 
+
+
+html { font-size: 62.5%; } 
+
+body {
+  font-family: oswald;
+  font-size: 17px; font-size: 1.7rem;
+  font-color: #9bcbeb;
+  background-color: #1f2a44;
+}
+
+.jumbo, .headline, .title, .subtitle, h1, h2, .caption {
+  font-family: swGardenGrove;
+}
+
+.jumbo {
+  font-size: 112px; font-size; 11.2rem;
+  font-weight: heavy;
+}
+
+.headline {
+  font-size: 56px; font-size: 5.6rem;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 36px; 3.6rem;
+  font-weight: light;
+}
+
+.subtitle {
+  font-size: 24px; font-size: 2.4rem;
+  font-weight: light;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: semibold;
+}
+
+.quote {
+  font-family: oswald;
+  font-size: 24px; font-size 2.4rem;
+}
+
+.body-serif {
+  font-family: times;
+  font-size: 17;
+}
+
+.caption {
+  font-size: 12px; font-size: 1.2rem;
+  font-weight: light;
+  text-transform: capitalize;
+}
+
+
+// COLORS
+
+
+.red { color: #EF3340; }
+.red-bg { background-color: #EF3340; }
+
+.pink { color: #f3435e; }
+.pink-bg { background-color: #f3435e; }
+
+.yellow { color: #e3e935; }
+.yellow-bg { background-color: #e3e935; }
+
+.green1 { color: #00a82d; }
+.green1-bg { background-color: #00a82d; }
+
+.green2 { color: #83dd65; }
+.green2-bg { background-color: #83dd65; }
+
+.navy { color: #1f2a44; }
+.navy-bg { background-color: #1f2a44; }
+
+.blue { color: #9bcbeb; }
+.blue-bg { background-color: #9bcbeb; }
+
+
+// ASSETS
+
+
+.logo-bg { background-image: url("assets/Modern Logo.png"); }
+.tradLogo-bg { background-image: url("assets/Traditional Logo.png"); }
+  
