@@ -31,9 +31,9 @@
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-Heavy.woff2') format('woff2'),
-       url('fonts/GardenGrove-Heavy.woff') format('woff'),
-       url('fonts/GardenGrove-Heavy.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff2?raw=true') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff?raw=true') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.eot?raw=true') format('eot');
   font-weight: heavy;
 }
 
