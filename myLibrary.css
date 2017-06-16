@@ -6,7 +6,7 @@
 
 html { font-size: 62.5%; } 
 
-body {
+p {
   font-family: oswald;
   font-size: 17px; font-size: 1.7rem;
   font-color: #9bcbeb;
@@ -14,7 +14,7 @@ body {
 }
 
 .jumbo, .headline, .title, .subtitle, h1, h2, .caption {
-  font-family: swGardenGrove;
+  font-family: "SW Garden Grove";
 }
 
 .jumbo {
