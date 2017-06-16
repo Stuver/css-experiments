@@ -2,14 +2,14 @@
   font-family: swGardenGrove;
   src: url('fonts/GardenGrove-Regular.woff2') format('woff2'),
        url('fonts/GardenGrove-Regular.woff') format('woff'),
-       url('fonts/GardenGrove-Regular.eof') format('eof');
+       url('fonts/GardenGrove-Regular.eot') format('eot');
 }
 
 @font-face {
   font-family: swGardenGrove;
-  src: url('fonts/GardenGrove-Bold.woff2') format('woff2'),
-       url('fonts/GardenGrove-Bold.woff') format('woff'),
-       url('fonts/GardenGrove-Bold.eot') format('eot');
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Bold.woff2') format('woff2'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Bold.woff') format('woff'),
+       url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Bold.eot') format('eot');
   font-weight: bold;
 }
 
