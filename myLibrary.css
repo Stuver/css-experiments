@@ -13,11 +13,10 @@ p {
 }
 
 .jumbo, .headline, .title, .subtitle, h1, h2, .caption {
-  font-family: swGardenGrove;
+  font-family: 'SW Garden Grove';
 }
 
 .jumbo {
-  font-family: swGardenGrove;
   font-size: 112px; font-size; 11.2rem;
   font-weight: 900;
   line-height: 120%;
