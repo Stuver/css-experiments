@@ -3,7 +3,7 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Regular.eot?raw=true') format('eot');
-  font-weight: regular;
+  font-weight: normal;
 }
 
 @font-face {
@@ -19,7 +19,7 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraBold.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraBold.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraBold.eot?raw=true') format('eot');
-  font-weight: extrabold;
+  font-weight: 800;
 }
 
 @font-face {
@@ -27,7 +27,7 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraLight.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraLight.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-ExtraLight.eot?raw=true') format('eot');
-  font-weight: extralight;
+  font-weight: 200;
 }
 
 @font-face {
@@ -35,7 +35,7 @@
   src: url('https://github.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff2?raw=true') format('woff2'),
        url('https://github.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.woff?raw=true') format('woff'),
        url('https://github.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Heavy.eot?raw=true') format('eot');
-  font-weight: heavy;
+  font-weight: 900;
 }
 
 @font-face {
@@ -43,7 +43,7 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Light.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Light.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Light.eot?raw=true') format('eot');
-  font-weight: light;
+  font-weight: 400;
 }
 
 @font-face {
@@ -51,7 +51,7 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Medium.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Medium.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Medium.eot?raw=true') format('eot');
-  font-weight: medium;
+  font-weight: 500;
 }
 
 @font-face {
@@ -59,7 +59,7 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Semibold.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Semibold.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Semibold.eot?raw=true') format('eot');
-  font-weight: semibold;
+  font-weight: 600;
 }
 
 @font-face {
@@ -67,7 +67,7 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Thin.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Thin.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Thin.eot?raw=true') format('eot');
-  font-weight: thin;
+  font-weight: 300;
 }
 
 @font-face {
@@ -75,5 +75,5 @@
   src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-UltraLight.woff2?raw=true') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-UltraLight.woff?raw=true') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-UltraLight.eot?raw=true') format('eot');
-  font-weight: ultralight;
+  font-weight: 100;
 }
