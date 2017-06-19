@@ -13,7 +13,7 @@ p {
 }
 
 .jumbo, .headline, .title, .subtitle, h1, h2, .caption {
-  font-family: 'SW Garden Grove';
+  font-family: 'SW Garden Grove', sans-serif;
 }
 
 .jumbo {
