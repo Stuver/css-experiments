@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 @import url('https://rawgithub.com/Stuver/css-experiments/master/gardenGroveFont.css');
 
@@ -13,7 +13,7 @@ p {
 }
 
 .jumbo, .headline, .title, .subtitle, h1, h2, .caption {
-  font-family: 'SW Garden Grove', 'Anton', sans-serif;
+  font-family: 'SW Garden Grove', 'Roboto', sans-serif;
 }
 
 .jumbo {
