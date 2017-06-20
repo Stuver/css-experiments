@@ -128,7 +128,7 @@ p {
   margin-top: 8px;
 }
 
-.bookCard {
+.mediaCard {
   width: 250px;
   height: 375px;;
   padding: 8px;
@@ -136,7 +136,7 @@ p {
   background: rgba(100,100,100,.5)
 }
 
-.bookCard:hover {
+.mediaCard:hover {
   
 }
 
