@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: 'SW Garden Grove Bold';
-  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Bold.woff2?') format('woff2'),
+  src: url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Bold.woff2') format('woff2'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Bold.woff') format('woff'),
        url('https://rawgithub.com/Stuver/css-experiments/blob/master/fonts/GardenGrove-Bold.eot') format('eot');
 }
